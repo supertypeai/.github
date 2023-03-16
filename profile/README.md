@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://supertype.ai">
-  <img width="900" src="./supertype_wide.png">
+  <img width="900" src="https://raw.githubusercontent.com/supertypeai/.github/main/profile/supertype_wide.png">
   </a>
 </p>
 
